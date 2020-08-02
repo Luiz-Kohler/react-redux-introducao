@@ -1,0 +1,13 @@
+.Intervalo input {
+    Font-size: 1.5rem;
+    width: 100px;
+}
+
+.Intervalo strong {
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.Inputs {
+    text-align: center;
+}
